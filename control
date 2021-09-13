@@ -1,0 +1,9 @@
+Package: com.ruyenet.fingcrack
+Name: Fing Crack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fing Unlock All Features!
+Maintainer: RuyeNet
+Author: RuyeNet
+Section: Cracks
+Depends: mobilesubstrate (>= 0.9.5000)
